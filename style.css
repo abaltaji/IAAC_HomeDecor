@@ -26,7 +26,7 @@ body {
     color: white;
     position: relative;
     overflow: hidden;
-    background-image: linear-gradient(rgba(74, 58, 46, 0.4), rgba(74, 58, 46, 0.4)), url('https://images.unsplash.com/photo-1567016376408-0d4b5e38f10a?w=1200&h=400&fit=crop');
+    background-image: linear-gradient(rgba(74, 58, 46, 0.4), rgba(74, 58, 46, 0.4)), url('https://images.unsplash.com/photo-1540932239986-310128078e6c?w=1200&h=400&fit=crop');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
